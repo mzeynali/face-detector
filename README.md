@@ -1,2 +1,2 @@
 # face-detector
-Python Face Detector
+Face detector using mediapipe which extract keypoints, eyes ratio (closeness).

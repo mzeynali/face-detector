@@ -1,3 +1,4 @@
-[cache]
-type = local
-local.storagepath = /tmp/dvc-cache
+[core]
+    remote = storage
+['remote "storage"']
+    url = /tmp/dvc-cached
